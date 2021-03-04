@@ -1,7 +1,13 @@
-First, run npm i to instal all dependencies.
+First, run
+
+```bash
+ npm i
+to instal all dependencies.
+```
 
 Then, run
 
 ```bash
-npm start to start server at port 8080
+npm start
+to start server at port 8080
 ```
